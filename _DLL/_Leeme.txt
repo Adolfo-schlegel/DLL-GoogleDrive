@@ -1,0 +1,10 @@
+En esta carpeta están los archivos que genera la compilación del proyecto 
+
+	\appl.NET\CVM.GDrive\GoogleDrive\_DLL
+
+Cuando se recompile en esta carpeta, va a generar dlls, pdbs y xmls, eliminar todos los archivos menos GoogleDriveService.dll.
+Todo proyecto que necesite usar la GoogleDriveService.dll, lo tiene que buscar en esta carpeta
+Por ejemplo CVM.CNT
+
+
+

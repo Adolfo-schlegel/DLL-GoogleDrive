@@ -1,0 +1,20 @@
+Gestión
+	Genera 1 archivo y lo guarda en una carpeta
+	le avisa al usuario
+	el usuario sube manualmente al GDrive.
+
+Gestión v2
+	Genera 1 archivo y lo guarda en una carpeta TEMP
+	genera un nota (TeamNotes), con el anexo indicando a donde lo envia 
+			GPA.CONTABLE1
+
+
+
+
+	Team notes
+	lista de Repositorios de GD
+		GPA.CONTABLE1, credenciales, etc.
+		XXX, credenciales, etc.
+		ZZZ, credenciales, etc.
+
+
